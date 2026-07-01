@@ -66,8 +66,6 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-
 .sidebar {
   width: var(--sidebar-w);
   flex: 0 0 var(--sidebar-w);
-  position: sticky;
-  top: 2rem;
   align-self: flex-start;
   padding: 2.6rem 0 2rem;
 }
