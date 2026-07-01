@@ -1,0 +1,5 @@
+# Preserve inbound links from the old WordPress URL structure
+/publications/      /publications.html   301
+/work-in-progress/  /research.html       301
+/data/              /data.html           301
+/contact/           /contact.html        301
